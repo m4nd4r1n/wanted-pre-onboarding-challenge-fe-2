@@ -70,3 +70,9 @@ const deleteAllTodos = () => {};
  */
 const deleteUniqueTag = (todoId, tag) => {};
 
+/**
+ * 특정 Todo의 모든 태그를 삭제합니다.
+ *
+ * @param {number} todoId
+ */
+const deleteAllTags = (todoId) => {};
