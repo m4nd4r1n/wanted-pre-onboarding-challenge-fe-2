@@ -25,3 +25,10 @@
  */
 const createTodo = ({ category, content, tags }) => {};
 
+/**
+ * 모든 Todo를 조회합니다.
+ *
+ * @returns {Todo[]}
+ */
+const getAllTodo = () => {};
+
