@@ -1,4 +1,6 @@
-# JSDoc Boilerplate
+# wanted-pre-onboarding-challenge-fe-2
+
+[Specifications](https://gist.github.com/pocojang/3c3d4470a3d2a978b5ebfb3f613e40fa)
 
 ## Usage
 
@@ -6,18 +8,15 @@
 
 ```bash
 npm install
-or
-yarn
 ```
 
 ### Build
 
 ```bash
 npm run docs
-or
-yarn docs
 ```
 
-#### Reference
+## Reference
 
 - [jsdoc.app](https://jsdoc.app)
+- [JSDoc Boilerplate](https://github.com/pocojang/jsdoc-boilerplate)
