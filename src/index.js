@@ -58,3 +58,6 @@ const updateTodo = (id, { category, content, done, tags }) => {};
  */
 const deleteUniqueTodo = (id) => {};
 
+/** 모든 Todo를 삭제합니다. */
+const deleteAllTodos = () => {};
+
