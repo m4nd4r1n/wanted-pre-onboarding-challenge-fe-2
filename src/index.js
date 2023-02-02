@@ -61,3 +61,12 @@ const deleteUniqueTodo = (id) => {};
 /** 모든 Todo를 삭제합니다. */
 const deleteAllTodos = () => {};
 
+/**
+ * 특정 Todo의 특정 태그를 삭제합니다.
+ *
+ * @param {number} todoId
+ * @param {string} tag
+ * @throws ID를 입력하지 않거나 존재하지 않는 ID이거나 태그를 입력하지 않거나 존재하지 않는 태그이면 오류가 발생합니다.
+ */
+const deleteUniqueTag = (todoId, tag) => {};
+
