@@ -17,3 +17,11 @@
  * @typedef {Todo[]} TodoList
  */
 
+/**
+ * Todo를 추가합니다.
+ *
+ * @param {Pick<Todo, "category" | "content" | "tags">} newTodoData
+ * @throws 내용이 없는 경우 오류가 발생합니다.
+ */
+const createTodo = ({ category, content, tags }) => {};
+
