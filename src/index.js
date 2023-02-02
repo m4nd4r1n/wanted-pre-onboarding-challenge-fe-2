@@ -32,3 +32,12 @@ const createTodo = ({ category, content, tags }) => {};
  */
 const getAllTodo = () => {};
 
+/**
+ * 특정 Todo를 조회합니다.
+ *
+ * @param {number} id
+ * @returns {Todo}
+ * @throws ID를 입력하지 않거나 존재하지 않는 ID이면 오류가 발생합니다.
+ */
+const getUniqueTodo = (id) => {};
+
