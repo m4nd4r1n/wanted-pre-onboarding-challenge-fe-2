@@ -41,3 +41,12 @@ const getAllTodo = () => {};
  */
 const getUniqueTodo = (id) => {};
 
+/**
+ * 특정 Todo의 ID를 제외한 다른 속성을 수정합니다.
+ *
+ * @param {number} id
+ * @param {Partial<Omit<Todo, "id">>} toUpdate
+ * @throws ID를 입력하지 않거나 존재하지 않는 ID이면 오류가 발생합니다.
+ */
+const updateTodo = (id, { category, content, done, tags }) => {};
+
