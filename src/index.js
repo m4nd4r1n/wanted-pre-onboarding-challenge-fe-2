@@ -11,3 +11,9 @@
  * @property {string[]} [tags] 태그들
  */
 
+/**
+ * Todo를 저장하는 TodoList 타입입니다.
+ *
+ * @typedef {Todo[]} TodoList
+ */
+
