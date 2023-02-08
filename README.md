@@ -1,8 +1,6 @@
-# wanted-pre-onboarding-challenge-fe-2
+# wanted-pre-onboarding-challenge-fe-ts
 
-[Specifications](https://gist.github.com/pocojang/3c3d4470a3d2a978b5ebfb3f613e40fa)
-
-[Deployment](https://m4nd4r1n.github.io/wanted-pre-onboarding-challenge-fe-2/)
+[Specifications](https://gist.github.com/pocojang/65f0d47bd34f9ee97ca55d8c7850662f)
 
 ## Usage
 
@@ -15,7 +13,7 @@ npm install
 ### Build
 
 ```bash
-npm run docs
+npx tsc src/index.ts
 ```
 
 ## Reference
